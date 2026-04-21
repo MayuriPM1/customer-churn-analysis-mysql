@@ -1,2 +1,24 @@
-# customer-churn-analysis-mysql
-Designed and analyzed a structured MySQL database using multiple tables to study customer churn. Performed joins, aggregations, and filtering to uncover churn patterns, segment customers, and identify high-risk groups for data-driven decision-making.
+Customer Churn Analysis (MySQL)
+
+Project Overview
+This project analyzes customer churn using a structured MySQL database. The dataset was imported from Excel and organized into multiple tables for analysis.
+
+Tools Used
+MySQL
+Excel
+
+ Dataset
+The dataset contains customer demographics, account details, and churn status.
+
+ Key Analysis Performed
+Customer churn rate calculation
+Churn analysis by gender and geography
+Identification of high-risk customers
+Customer segmentation using joins and filters
+
+ Key Insights
+Identified customer groups with higher churn rates
+Inactive members showed higher churn probability
+High-balance customers with low activity were at risk
+
+
